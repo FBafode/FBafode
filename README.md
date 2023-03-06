@@ -12,6 +12,7 @@ I'm a  passionate Full Stack developer from France
 
 **About me**
 
+<img src="https://github-readme-stats.vercel.app/api?username=FBafode&show_icons=true" />
 
 
 
