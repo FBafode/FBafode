@@ -8,7 +8,7 @@ Bienvenue  👋
 
 <br />
 
-I'm a  passionate Full Stack developer from France
+I'm a  passionate Full Stack developer from France, always ready to share with you and learn from you !
 
 **About me**
 
