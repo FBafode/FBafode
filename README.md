@@ -3,6 +3,19 @@ Bienvenue  👋
 - 🌱 I’m currently learning and preparing a level 6 professional as application developer
 
 
+
+<p align="center"><a href="https://fbafode.github.io"><img width="80%" /></a></p>
+
+<br />
+
+I'm a  passionate Full Stack developer from France
+
+**About me**
+
+
+
+
+
 <!--
 **FBafode/FBafode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
