@@ -4,7 +4,7 @@ Bienvenue  👋
 
 
 
-<p align="center"><a href="https://fbafode.github.io"><img width="80%" /></a></p>
+<p align="center"><a href="https://fbafode.github.io"><img width="90%" /></a></p>
 
 <br />
 
@@ -14,7 +14,7 @@ I'm a  passionate Full Stack developer from France
 
 <img src="https://github-readme-stats.vercel.app/api?username=FBafode&theme=tokyonight&show_icons=true" />
 
-<code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<p ><code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
@@ -26,6 +26,7 @@ I'm a  passionate Full Stack developer from France
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png"></code>
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png"></code>
+</p>
 
 <!--
 **FBafode/FBafode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
