@@ -1,13 +1,14 @@
 Welcome  👋
 
-- 🌱 I’m currently learning and preparing a level 6 professional as application developer
+- 🌱
+I'm a  passionate Full Stack developer from France, always ready to share with you and learn from you !
 
 
 <p align="center"><a href="https://fbafode.github.io"><img width="90%" /></a></p>
 
 <br />
 
-I'm a  passionate Full Stack developer from France, always ready to share with you and learn from you !
+After more than 12 years in an international group as a support consultant, I would now like to direct my work towards the development and creation of applications
 
 **About me**
 
