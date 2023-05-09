@@ -12,7 +12,7 @@ After more than 12 years in an international group as a support consultant, I wo
 
 **About me**
 
-<img src="https://github-readme-stats.vercel.app/api?username=FBafode&theme=tokyonight&show_icons=true" />
+<img src="https://github-readme-stats.-ruby-one.vercel.app/api?username=FBafode&theme=tokyonight&show_icons=true" />
 
 
 <br />
